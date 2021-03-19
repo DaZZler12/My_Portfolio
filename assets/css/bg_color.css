@@ -1,0 +1,7 @@
+body{
+
+  /*background:linear-gradient(55deg,#c9be6cab 10%,#ffa570,#C850C0,#4158D0,#3072D3 98%,#7864F4 100%)*/
+  /*background:linear-gradient(360deg, #b6eae1 10%, #D2FBAD 360%)*/
+  background: linear-gradient(to right top, #212522, #222622, #232622, #252723, #262723);
+}
+
